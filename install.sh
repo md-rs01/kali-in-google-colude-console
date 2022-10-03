@@ -1,4 +1,4 @@
-sudo su 
+#! /bin/bash
 cd /etc/apt/
 echo "deb http://http.kali.org/kali kali-rolling main contrib non-free
 " >> sources.list
