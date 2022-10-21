@@ -17,4 +17,4 @@ Add kali repository in google cloude console you can install all kali tools in y
 
 # Conclusion 
 
-It will take some time to install everything. After installation you can manually install all kali linux tools in here. But google cloude console only support cli mode. So you can't use ane gui software or tools.
+It will take some time to install everything. After installation you can manually install all kali linux tools in here. But google cloude console only support cli mode. So you can't use any gui software or tools.
